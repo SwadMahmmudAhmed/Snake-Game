@@ -1,4 +1,5 @@
 #This is my first real code and coding experience it is very simple I know but we all start from the bottom.
+#later I need to add different playing modes such that the three modes are classic , box , maze. 
 import pygame
 import random
 import tkinter as tk
